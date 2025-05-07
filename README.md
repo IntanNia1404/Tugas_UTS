@@ -28,15 +28,15 @@ Aplikasi ini merupakan aplikasi Flutter yang responsif dan adaptif, dirancang un
   Di bagian atas, ditampilkan kutipan motivasi harian berdasarkan hari dalam seminggu.
   Tersedia tombol navigasi langsung ke halaman Jadwal dan Profil.
 
-  - Halaman Jadwal
-    Menampilkan jadwal kuliah dalam bentuk kartu.
-    Setiap item menampilkan hari, nama mata kuliah, dan jam kuliah.
+- Halaman Jadwal
+  Menampilkan jadwal kuliah dalam bentuk kartu.
+  Setiap item menampilkan hari, nama mata kuliah, dan jam kuliah.
 
--   Halaman Profil Mahasiswa
-    Menampilkan foto profil, nama lengkap, NPM, email, dan jurusan dalam satu kartu.
-    Tersedia ikon edit untuk memperbarui setiap informasi secara langsung via dialog input.
-    Terdapat switch untuk mengaktifkan Mode Gelap (dark mode).
-    Terdapat tombol Logout di bagian bawah.
+- Halaman Profil Mahasiswa
+  Menampilkan foto profil, nama lengkap, NPM, email, dan jurusan dalam satu kartu.
+  Tersedia ikon edit untuk memperbarui setiap informasi secara langsung via dialog input.
+  Terdapat switch untuk mengaktifkan Mode Gelap (dark mode).
+  Terdapat tombol Logout di bagian bawah.
     
 # Link YouTube Presentasi
 https://youtu.be/HTLeCkgiAlQ?si=FhIbS92UpshCFjK-
