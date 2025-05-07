@@ -21,22 +21,22 @@ Aplikasi ini merupakan aplikasi Flutter yang responsif dan adaptif, dirancang un
   Layar besar (tablet & desktop): menggunakan NavigationRail di sisi kiri <br>
 
 - Halaman Home (Beranda)
-  Menampilkan daftar kegiatan mahasiswa dalam bentuk kartu.
-  Setiap kartu berisi nama kegiatan, tanggal, dan checkbox untuk menandai apakah kegiatan telah selesai.
-  Pengguna dapat menambahkan kegiatan baru dengan tombol FloatingActionButton. Form input akan muncul dalam dialog pop-up.
-  Setiap kegiatan juga dapat dihapus melalui ikon tempat sampah.
-  Di bagian atas, ditampilkan kutipan motivasi harian berdasarkan hari dalam seminggu.
-  Tersedia tombol navigasi langsung ke halaman Jadwal dan Profil.
+  Menampilkan daftar kegiatan mahasiswa dalam bentuk kartu. <br>
+  Setiap kartu berisi nama kegiatan, tanggal, dan checkbox untuk menandai apakah kegiatan telah selesai.<br>
+  Pengguna dapat menambahkan kegiatan baru dengan tombol FloatingActionButton. Form input akan muncul dalam dialog pop-up.<br>
+  Setiap kegiatan juga dapat dihapus melalui ikon tempat sampah.<br>
+  Di bagian atas, ditampilkan kutipan motivasi harian berdasarkan hari dalam seminggu.<br>
+  Tersedia tombol navigasi langsung ke halaman Jadwal dan Profil.<br>
 
 - Halaman Jadwal
-  Menampilkan jadwal kuliah dalam bentuk kartu.
-  Setiap item menampilkan hari, nama mata kuliah, dan jam kuliah.
+  Menampilkan jadwal kuliah dalam bentuk kartu.<br>
+  Setiap item menampilkan hari, nama mata kuliah, dan jam kuliah.<br>
 
 - Halaman Profil Mahasiswa
-  Menampilkan foto profil, nama lengkap, NPM, email, dan jurusan dalam satu kartu.
-  Tersedia ikon edit untuk memperbarui setiap informasi secara langsung via dialog input.
-  Terdapat switch untuk mengaktifkan Mode Gelap (dark mode).
-  Terdapat tombol Logout di bagian bawah.
+  Menampilkan foto profil, nama lengkap, NPM, email, dan jurusan dalam satu kartu.<br>
+  Tersedia ikon edit untuk memperbarui setiap informasi secara langsung via dialog input.<br>
+  Terdapat switch untuk mengaktifkan Mode Gelap (dark mode).<br>
+  Terdapat tombol Logout di bagian bawah.<br>
     
 # Link YouTube Presentasi
 https://youtu.be/HTLeCkgiAlQ?si=FhIbS92UpshCFjK-
