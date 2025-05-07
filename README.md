@@ -14,5 +14,29 @@ Aplikasi ini merupakan aplikasi Flutter yang responsif dan adaptif, dirancang un
 # Tampilan Home
 ![image](https://github.com/user-attachments/assets/990e23cb-a07a-43cd-aa1f-4d2cd3d1609b)
 
+# Penjelasan Program
+- Navigasi Responsif (Adaptive Layout)
+  Aplikasi ini menggunakan paket flutter_adaptive_scaffold untuk memberikan pengalaman pengguna yang optimal di berbagai ukuran layar:
+  Layar kecil (mobile): menggunakan BottomNavigationBar.
+  Layar besar (tablet & desktop): menggunakan NavigationRail di sisi kiri.
+
+- Halaman Home (Beranda)
+  Menampilkan daftar kegiatan mahasiswa dalam bentuk kartu.
+  Setiap kartu berisi nama kegiatan, tanggal, dan checkbox untuk menandai apakah kegiatan telah selesai.
+  Pengguna dapat menambahkan kegiatan baru dengan tombol FloatingActionButton. Form input akan muncul dalam dialog pop-up.
+  Setiap kegiatan juga dapat dihapus melalui ikon tempat sampah.
+  Di bagian atas, ditampilkan kutipan motivasi harian berdasarkan hari dalam seminggu.
+  Tersedia tombol navigasi langsung ke halaman Jadwal dan Profil.
+
+  - Halaman Jadwal
+    Menampilkan jadwal kuliah dalam bentuk kartu.
+    Setiap item menampilkan hari, nama mata kuliah, dan jam kuliah.
+
+-   Halaman Profil Mahasiswa
+    Menampilkan foto profil, nama lengkap, NPM, email, dan jurusan dalam satu kartu.
+    Tersedia ikon edit untuk memperbarui setiap informasi secara langsung via dialog input.
+    Terdapat switch untuk mengaktifkan Mode Gelap (dark mode).
+    Terdapat tombol Logout di bagian bawah.
+    
 # Link YouTube Presentasi
 https://youtu.be/HTLeCkgiAlQ?si=FhIbS92UpshCFjK-
