@@ -1,7 +1,10 @@
 # LAPORAN UTS PEMROGRAMAN BERBASIS MOBILE
 # flutter_uts_aplikasi_jadwal_kuliah_dan_kegiatan_mahasiswa_adapatif_interaktif
-# Nama / NPM : Siti Intan Nia / 4522210054
-
+# Nama / NPM  
+Siti Intan Nia / 4522210054
+# Penjelasan Singkat Aplikasi
+Aplikasi ini merupakan aplikasi Flutter yang responsif dan adaptif, dirancang untuk menyajikan informasi penting bagi mahasiswa. Terdiri dari tiga halaman utama—Beranda, Jadwal Kuliah, dan Profil Pengguna—tampilan aplikasi secara otomatis menyesuaikan dengan ukuran layar perangkat. Fitur-fitur utamanya mencakup pengelolaan daftar kegiatan, opsi untuk beralih antara mode gelap dan terang, serta kemampuan untuk memperbarui informasi pengguna
+# Screenshot Emulator
 # Tampilan Akun
 ![image](https://github.com/user-attachments/assets/473b1f16-7713-4905-afe9-b4615383c4a6)
 
