@@ -15,10 +15,11 @@ Aplikasi ini merupakan aplikasi Flutter yang responsif dan adaptif, dirancang un
 ![image](https://github.com/user-attachments/assets/990e23cb-a07a-43cd-aa1f-4d2cd3d1609b)
 
 # Penjelasan Program
+<br>
 - Navigasi Responsif (Adaptive Layout)
   Aplikasi ini menggunakan paket flutter_adaptive_scaffold untuk memberikan pengalaman pengguna yang optimal di berbagai ukuran layar:
   Layar kecil (mobile): menggunakan BottomNavigationBar.
-  Layar besar (tablet & desktop): menggunakan NavigationRail di sisi kiri.
+  Layar besar (tablet & desktop): menggunakan NavigationRail di sisi kiri. <br> 
 
 - Halaman Home (Beranda)
   Menampilkan daftar kegiatan mahasiswa dalam bentuk kartu.
