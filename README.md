@@ -1,4 +1,6 @@
 # LAPORAN UTS PEMROGRAMAN BERBASIS MOBILE
+# flutter_uts_aplikasi_jadwal_kuliah_dan_kegiatan_mahasiswa_adapatif_interaktif
+# Nama / NPM : Siti Intan Nia / 4522210054
 
 # Tampilan Akun
 ![image](https://github.com/user-attachments/assets/473b1f16-7713-4905-afe9-b4615383c4a6)
